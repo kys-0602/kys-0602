@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td><a href="https://maplescouter.com/result?name=%EC%96%B4%EB%85%B8%EC%9E%89%EB%A0%8C&preset=00000">메이플 스토리</a></td>
-      <td>14회</td>
+      <td>15회</td>
       <td></td>
       <td>
         <a href="https://github.com/bug-topia/syw2plus">임진록2+</a>, 
