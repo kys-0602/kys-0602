@@ -49,8 +49,6 @@
 <br>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="24" height="24" loading="lazy" /> 문제 해결
-#### 프로그래머스
-![PROGRAMMERS](https://github.com/an-noying/github-programmers-rank/blob/master/lib/result.svg)
 #### 백준 (Solved.ac)
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=annoying_kr)
 
