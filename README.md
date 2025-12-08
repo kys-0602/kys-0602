@@ -39,7 +39,7 @@
       <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="16" height="16" loading="lazy" /> <a href="https://github.com/AN-NOYING/NeoXOPS">NeoXOPS</a></td>
       <td>3D FPS, 클론, 리팩토링, C/C++, DirectX</td>
       <td>-</td>
-      <td>진행중...</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
