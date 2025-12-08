@@ -1,5 +1,3 @@
-![GITHUB_PROFILE_HEADER](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=bugtopia's%20Github!!!&textBg=false&animation=scaleIn)
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="128" height="128" loading="lazy"/>
 </div>
