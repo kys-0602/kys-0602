@@ -80,7 +80,7 @@
         <a href="https://github.com/bug-topia/arcturus_format">악튜러스</a>, 
       </td>
       <td>
-        <a href="https://bug-topia.github.io">바로가기</a>
+        <a href="https://kys-0602.github.io">바로가기</a>
       </td>
     </tr>
   </tbody>
