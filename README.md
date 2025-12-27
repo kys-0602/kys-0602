@@ -20,3 +20,4 @@ const me = {
   },
 };
 ```
+![snake animation](https://raw.githubusercontent.com/kys-0602/kys-0602/output/github-contribution-grid-snake.svg)
