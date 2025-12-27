@@ -9,6 +9,10 @@ const me = {
   tools:                  [ "Git", "VSCode", "Postman", "Figma", "IntelliJ", "Notion" ],
   
   currentlyLearning:      [ "Algorithm & Problem Solving", "Vue" ],
+
+  Education: {
+    ssafy: "14th, Seoul Campus, Java & Web Track"
+  }
   
   projects: {
     yumgovy: "AI-based Diet Coaching",
