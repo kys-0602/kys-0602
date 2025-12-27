@@ -12,7 +12,7 @@ const me = {
 
   Education: {
     ssafy: "14th, Seoul Campus, Java & Web Track"
-  }
+  },
   
   projects: {
     yumgovy: "AI-based Diet Coaching",
