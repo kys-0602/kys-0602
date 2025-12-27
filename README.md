@@ -3,19 +3,25 @@ const me = {
   location: "Seoul, South Korea",
   
   programmingLanguages:   [ "C", "C++", "Java", "JavaScript", "TypeScript" ],
-  markUpLanguages:        [ "HTML", "CSS", "Markdown" ],
+  markupLanguages:        [ "HTML", "CSS", "Markdown" ],
   frameworks:             [ "Node.js", "Vue", "Vite" ],
   databases:              [ "MySQL", "MariaDB", "SQLite" ],
   tools:                  [ "Git", "VSCode", "Postman", "Figma", "IntelliJ", "Notion" ],
   
   currentlyLearning:      [ "Algorithm & Problem Solving", "Vue" ],
 
-  Education: {
-    ssafy: "14th, Seoul Campus, Java & Web Track"
+  education: {
+    ssafy: {
+      desc: "14th, Seoul Campus, Java & Web Track",
+      achievement: "Classmate of the Month"
+    }
   },
   
   projects: {
-    yumgovy: "AI-based Diet Coaching",
+    yumgovy: {
+      desc: "AI-based Diet Coaching",
+      role: "Front-End",
+    }
   },
   
   contact: {
