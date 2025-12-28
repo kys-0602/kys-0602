@@ -13,7 +13,9 @@ const me = {
   education: {
     ssafy: {
       desc: "14th, Seoul Campus, Java & Web Track",
-      achievement: "Classmate of the Month"
+      achievement: [
+        "Classmate of the Month"
+      ]
     }
   },
   
