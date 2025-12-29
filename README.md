@@ -23,14 +23,14 @@ const me = {
     yumgovy: {
       desc: "AI-based Diet Coaching",
       link: "https://github.com/kys-0602/yumgovy-fe",
-      role: "Front-End",
+      role: [ "Front-End", "Teammate" ],
       techStack: [ "VSCode", "Vue.JS", "TailwindCSS" ]
     },
 
     sywworkshop: {
       desc: "SPR/YTL/YAV/PAL Viewer",
       link: "https://syw-kr.github.io/workshop/",
-      role: "Front-End",
+      role: [ "Front-End", "Owner(Personal)" ],
       techStack: [ "VSCode", "Vue.JS", "TailwindCSS" ]
     }
   },
