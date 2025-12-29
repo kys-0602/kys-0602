@@ -22,6 +22,12 @@ const me = {
   projects: {
     yumgovy: {
       desc: "AI-based Diet Coaching",
+      link: "https://github.com/kys-0602/yumgovy-fe",
+      role: "Front-End",
+    },
+    sywworkshop: {
+      desc: "SPR/YTL/YAV/PAL Viewer",
+      link: "https://syw-kr.github.io/workshop/",
       role: "Front-End",
     }
   },
