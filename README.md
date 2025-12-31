@@ -49,6 +49,13 @@ class Profile {
         link      : "https://syw-kr.github.io/workshop/",
         role      : [ "Front-End", "Owner(Personal)" ],
         techStack : [ "Vue", "TailwindCSS" ]
+      },
+
+      CollaborativePJT: {
+        desc      : "SSAFY 14th, Second Semester CollaborativePJT",
+        link      : "",
+        role      : [ "Front-End", "Team Leader" ],
+        techStack : [ ]
       }
     };
 
