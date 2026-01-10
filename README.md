@@ -32,7 +32,7 @@ class Profile {
     this.education = {
       ssafy: {
         desc        : "14th, Seoul Campus, Java & Web Track",
-        achievement : [ "Classmate of the Month" ]
+        achievement : [ "Classmate of the Month", "Class President, Class 2, Semester 2" ]
       }
     };
 
