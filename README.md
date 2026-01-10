@@ -20,7 +20,7 @@ class Profile {
   contact              : { email: string; blog: string };
 
   constructor() {
-    this.location = "Seoul, South Korea";
+    this.location = "Seongnam-si, Gyeonggi-do, Republic of Korea";
 
     this.programmingLanguages  = [ "C", "C++", "Java", "JavaScript", "TypeScript" ];
     this.markupLanguages       = [ "HTML", "CSS", "Markdown" ];
