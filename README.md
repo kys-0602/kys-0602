@@ -4,6 +4,7 @@ type Project = {
   link: string;
   role: string[];
   techStack: string[];
+  teamMembers: string[] | null;
 };
 
 class Profile {
@@ -41,21 +42,24 @@ class Profile {
         desc      : "AI-based Diet Coaching",
         link      : "https://github.com/kys-0602/yumgovy-fe",
         role      : [ "Front-End", "Teammate" ],
-        techStack : [ "Vue", "TailwindCSS" ]
+        techStack : [ "Vue", "TailwindCSS" ],
+        teamMembers: [  ],
       },
 
       sywworkshop: {
         desc      : "SPR/YTL/YAV/PAL Viewer",
         link      : "https://syw-kr.github.io/workshop/",
         role      : [ "Front-End", "Owner(Personal)" ],
-        techStack : [ "Vue", "TailwindCSS" ]
+        techStack : [ "Vue", "TailwindCSS" ],
+        teamMembers: null,
       },
 
       CollaborativePJT: {
         desc      : "SSAFY 14th, Second Semester CollaborativePJT",
         link      : "",
         role      : [ "Front-End", "Team Leader" ],
-        techStack : [ ]
+        techStack : [ ], 
+        teamMembers: [  ],
       }
     };
 
