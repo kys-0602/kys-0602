@@ -1,5 +1,6 @@
 ```ts
 type Project = {
+  subject: string;
   title: string;
   desc: string;
   link: string;
@@ -34,36 +35,49 @@ class Profile {
     this.education = {
       ssafy: {
         desc        : "14th, Seoul Campus, Java & Web Track",
-        achievement : [ "Classmate of the Month", "Class President, Class 2, Semester 2", "CommonPJT BestMember" ]
+        achievement : [ "Classmate of the Month", "Class President, Class 2, Semester 2", "CollaborativePJT BestMember" ]
       }
     };
 
     this.projects = {
       yumgovy: {
-        title     : "YumGovy",
-        desc      : "AI-based Diet Coaching",
-        link      : "https://github.com/kys-0602/yumgovy-fe",
-        role      : [ "Front-End", "Teammate" ],
-        techStack : [ "Vue", "TailwindCSS" ],
-        teamMembers: [  ],
+        subject      : "Web",
+        title        : "YumGovy",
+        desc         : "AI-based Diet Coaching",
+        link         : "https://github.com/kys-0602/yumgovy-fe",
+        role         : [ "Front-End", "Teammate" ],
+        techStack    : [ "Vue", "TailwindCSS" ],
+        teamMembers  : [  ],
       },
 
       sywworkshop: {
-        title     : "SYWWorkShop",
-        desc      : "SPR/YTL/YAV/PAL Viewer",
-        link      : "https://syw-kr.github.io/workshop/",
-        role      : [ "Front-End", "Owner(Personal)" ],
-        techStack : [ "Vue", "TailwindCSS" ],
-        teamMembers: null,
+        subject      : "Web - Editor",
+        title        : "SYWWorkShop",
+        desc         : "SPR/YTL/YAV/PAL Viewer",
+        link         : "https://syw-kr.github.io/workshop/",
+        role         : [ "Front-End", "Owner(Personal)" ],
+        techStack    : [ "Vue", "TailwindCSS" ],
+        teamMembers  : null,
       },
 
       CollaborativePJT: {
-        title     : "RoomInCode"
-        desc      : "실시간 턴제 코딩 배틀 게임",
-        link      : "",
-        role      : [ "Front-End", "Team Leader" ],
-        techStack : [ "Vue.JS", "TypeScript", "TailwindCSS", "Naive UI", "Axios", "MonacoEditor", "Yjs", "WebSocket(RAW)" ], 
-        teamMembers: [  ],
+        subject      : "Web + RTC",
+        title        : "RoomInCode",
+        desc         : "실시간 턴제 코딩 배틀 게임",
+        link         : "",
+        role         : [ "Front-End", "Team Leader" ],
+        techStack    : [ "Vue.JS", "TypeScript", "TailwindCSS", "Naive UI", "Axios", "MonacoEditor", "Yjs", "WebSocket(RAW)" ], 
+        teamMembers  : [  ],
+      },
+
+      SpecialPJT: {
+        subject      : "Metaverse Game",
+        title        : "",
+        desc         : "",
+        link         : "",
+        role         : [ "TeamMate" ],
+        techStack    : [ ],
+        teamMembers  : [ ],
       }
     };
 
