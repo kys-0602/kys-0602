@@ -40,6 +40,7 @@ class Profile {
     };
 
     this.projects = {
+      // SSAFY 1학기 관통 프로젝트
       yumgovy: {
         subject      : "Web",
         title        : "YumGovy",
@@ -47,7 +48,7 @@ class Profile {
         link         : "https://github.com/kys-0602/yumgovy-fe",
         role         : [ "Front-End", "Teammate" ],
         techStack    : [ "Vue", "TailwindCSS" ],
-        teamMembers  : [  ],
+        teamMembers  : [ "jaehyunkkk" ],
       },
 
       sywworkshop: {
@@ -60,6 +61,7 @@ class Profile {
         teamMembers  : null,
       },
 
+      // SSAFY 2학기 공통 프로젝트
       CollaborativePJT: {
         subject      : "Web + RTC",
         title        : "RoomInCode",
@@ -67,9 +69,10 @@ class Profile {
         link         : "",
         role         : [ "Front-End", "Team Leader" ],
         techStack    : [ "Vue.JS", "TypeScript", "TailwindCSS", "Naive UI", "Axios", "MonacoEditor", "Yjs", "WebSocket(RAW)" ], 
-        teamMembers  : [  ],
+        teamMembers  : [ "subbb-in", "Wjadebead", "hisunny1007", "thisischeese", "zheldgkwk" ],
       },
 
+      // SSAFY 2학기 특화 프로젝트
       SpecialPJT: {
         subject      : "Metaverse Game",
         title        : "",
