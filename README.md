@@ -89,7 +89,7 @@ class Profile {
 
     this.contact = {
       email : "i.am.happy.kr@gmail.com",
-      blog  : "https://kys-0602.github.io/"
+      blog  : "https://velog.io/@__kys__"
     };
   }
 
