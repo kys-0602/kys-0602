@@ -30,12 +30,15 @@ class Profile {
     this.databases             = [ "MySQL", "MariaDB", "SQLite" ];
     this.tools                 = [ "Git", "VSCode", "Postman", "Figma", "IntelliJ", "Notion" ];
 
-    this.currentlyLearning     = [ "Algorithm & Problem Solving", "Vue", "React", "Node.js" ];
+    this.currentlyLearning     = [ "Algorithm & Problem Solving", "Vue", "React", "Node.js", "Game Math" ];
 
     this.education = {
       ssafy: {
         desc        : "14th, Seoul Campus, Java & Web Track",
-        achievement : [ "Classmate of the Month", "Class President, Class 2, Semester 2", "CollaborativePJT BestMember" ]
+        achievement : [ "Classmate of the Month",                    // 1학기 11월 이달의 동료
+                        "Class President, Class 2, Semester 2",      // 2학기 2반 반장
+                        "CollaborativePJT BestMember"                // 공통 프로젝트 베스트 멤버
+                      ]
       }
     };
 
@@ -79,7 +82,7 @@ class Profile {
         desc         : "",
         link         : "",
         role         : [ "TeamMate" ],
-        techStack    : [ ],
+        techStack    : [ "C#", "Unity Engine" ],
         teamMembers  : [ ],
       }
     };
