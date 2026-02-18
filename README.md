@@ -1,3 +1,5 @@
+[![terminal](https://github.com/user-attachments/assets/ddc6a9d9-86e2-4398-8911-8233e15c8431)](https://www.terminalgif.com/)
+
 ```ts
 type Project = {
   subject: string;
