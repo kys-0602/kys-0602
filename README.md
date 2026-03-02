@@ -91,7 +91,7 @@ class Profile {
 
     this.contact = {
       email : "i.am.happy.kr@gmail.com",
-      blog  : ""
+      blog  : "https://kys-0602.github.io/"
     };
   }
 
