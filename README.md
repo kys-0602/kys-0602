@@ -80,10 +80,10 @@ class Profile {
       // SSAFY 2학기 특화 프로젝트
       SpecialPJT: {
         subject      : "Metaverse Game",
-        title        : "",
-        desc         : "",
+        title        : "Sweet Delivery",
+        desc         : "화물을 목적지까지 옮겨야하는 4인 협동 플랫포머 게임",
         link         : "",
-        role         : [ "TeamMate" ],
+        role         : [ "TeamMate (Client, QA)" ],
         techStack    : [ "C#", "Unity Engine" ],
         teamMembers  : [ ],
       }
