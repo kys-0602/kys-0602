@@ -1,106 +1,32 @@
-[![terminal](https://github.com/user-attachments/assets/ddc6a9d9-86e2-4398-8911-8233e15c8431)](https://www.terminalgif.com/)
+# Hi, there! 👋
 
-```ts
-type Project = {
-  subject: string;
-  title: string;
-  desc: string;
-  link: string;
-  role: string[];
-  techStack: string[];
-  teamMembers: string[] | null;
-};
+## 목차
 
-class Profile {
-  location             : string;
-  programmingLanguages : string[];
-  markupLanguages      : string[];
-  frameworks           : string[];
-  databases            : string[];
-  tools                : string[];
-  currentlyLearning    : string[];
-  education            : { ssafy: { desc: string; achievement: string[] } };
-  projects             : Record<string, Project>;
-  contact              : { email: string; blog: string };
+1. [SSAFY](#ssafysamsung-swai-academy-for-youth "SSAFY")
 
-  constructor() {
-    this.location = "Seongnam-si, Gyeonggi-do, Republic of Korea";
+## SSAFY(Samsung SW·AI Academy For Youth)
 
-    this.programmingLanguages  = [ "C", "C++", "Java", "JavaScript", "TypeScript" ];
-    this.markupLanguages       = [ "HTML", "CSS", "Markdown" ];
-    this.frameworks            = [ "Node.js", "Vue", "Vite" ];
-    this.databases             = [ "MySQL", "MariaDB", "SQLite" ];
-    this.tools                 = [ "Git", "VSCode", "Postman", "Figma", "IntelliJ", "Notion" ];
+#### 요약
 
-    this.currentlyLearning     = [ "Algorithm & Problem Solving", "Vue", "React", "Node.js", "Game Math" ];
+|학기|내용|
+|:-----|:-----|
+|1학기|14기 서울캠퍼스 웹(자바) 트랙 수료|
+|1학기|11월 이달의 동료|
+|2학기|2반 반장 (자치회)|
+|2학기|공통 프로젝트 팀장 & 베스트 멤버}
 
-    this.education = {
-      ssafy: {
-        desc        : "14th, Seoul Campus, Java & Web Track",
-        achievement : [ "Classmate of the Month",                    // 1학기 11월 이달의 동료
-                        "Class President, Class 2, Semester 2",      // 2학기 2반 반장
-                        "CollaborativePJT BestMember"                // 공통 프로젝트 베스트 멤버
-                      ]
-      }
-    };
+#### 프로젝트
 
-    this.projects = {
-      // SSAFY 1학기 관통 프로젝트
-      yumgovy: {
-        subject      : "Web",
-        title        : "YumGovy",
-        desc         : "AI-based Diet Coaching",
-        link         : "https://github.com/kys-0602/yumgovy-fe",
-        role         : [ "Front-End", "Teammate" ],
-        techStack    : [ "Vue", "TailwindCSS" ],
-        teamMembers  : [ "jaehyunkkk" ],
-      },
+> 반출 허락된 프로젝트의 경우 **프로젝트 이름**에 하이퍼링크가 포함됩니다.
 
-      sywworkshop: {
-        subject      : "Web - Editor",
-        title        : "SYWWorkShop",
-        desc         : "SPR/YTL/YAV/PAL Viewer",
-        link         : "https://syw-kr.github.io/workshop/",
-        role         : [ "Front-End", "Owner(Personal)" ],
-        techStack    : [ "Vue", "TailwindCSS" ],
-        teamMembers  : null,
-      },
+|프로젝트 이름|설명|역할|테크 스택|팀원|
+|:-----|:-----|:-----|:-----|:-----|
+|YumGovy|AI 기반 다이어트 코칭 웹 서비스|팀원(프론트엔드)|Vue.JS|[jaehyunkkk](https://github.com/jaehyunkkk "jaehyunkkk")|
+|RoomInCode|실시간 턴제 코딩 배틀 게임 웹 서비스|팀장(프론트엔드)|Vue.JS|[subbb-in](https://github.com/subbb-in "subbb-in"), [Wjadebead](https://github.com/Wjadebead "Wjadebead"), [hisunny1007](https://github.com/hisunny1007 "hisunny1007"), [thisischeese](https://github.com/thisischeese "thisischeese"), [zheldgkwk](https://github.com/zheldgkwk "zheldgkwk")|
+|Sweet Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 게임|팀원(시스템 및 콘텐츠 클라이언트)|Unity 6, [Mirror](https://assetstore.unity.com/packages/tools/network/mirror-129321 "Mirror")||
 
-      // SSAFY 2학기 공통 프로젝트
-      CollaborativePJT: {
-        subject      : "Web + RTC",
-        title        : "RoomInCode",
-        desc         : "실시간 턴제 코딩 배틀 게임",
-        link         : "",
-        role         : [ "Front-End", "Team Leader" ],
-        techStack    : [ "Vue.JS", "TypeScript", "TailwindCSS", "Naive UI", "Axios", "MonacoEditor", "Yjs", "WebSocket(RAW)" ], 
-        teamMembers  : [ "subbb-in", "Wjadebead", "hisunny1007", "thisischeese", "zheldgkwk" ],
-      },
 
-      // SSAFY 2학기 특화 프로젝트
-      SpecialPJT: {
-        subject      : "Metaverse Game",
-        title        : "Sweet Delivery",
-        desc         : "화물을 목적지까지 옮겨야하는 4인 협동 플랫포머 게임",
-        link         : "",
-        role         : [ "TeamMate (Client, QA)" ],
-        techStack    : [ "C#", "Unity Engine" ],
-        teamMembers  : [ ],
-      }
-    };
 
-    this.contact = {
-      email : "i.am.happy.kr@gmail.com",
-      blog  : "https://kys-0602.github.io/"
-    };
-  }
 
-  introduce = (): string => {
-    return `저는 ${this.location}에 위치한, Front-End 개발자를 꿈꾸는 사람입니다. 현재 ${this.currentlyLearning.join(", ")}를 배우고 있어요.`;
-  };
-}
 
-const me = new Profile();
-console.log(me.introduce());
-```
 ![snake animation](https://raw.githubusercontent.com/kys-0602/kys-0602/output/github-contribution-grid-snake.svg)
