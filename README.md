@@ -12,12 +12,12 @@
 
 #### 테크 스택
 
-|유형|종류|설명|
+| 유형 | 종류 | 설명 |
 |:-----|:-----|:-----|
-|프로그래밍 언어|C/C++, C#, Java, TypeScript||
-|마크업 언어|Markdown(Kramdown)||
-|게임 엔진|[Unity](https://unity.com/ "Unity"), [Godot](https://godotengine.org/ "Godot")||
-|도구|[VSCode](https://code.visualstudio.com/ "VSCode")||
+| 프로그래밍 언어 | **C/C++**, C#, TypeScript | 게임 리소스 분석 및 툴 개발, Unity 기반 게임 로직 구현, Vue 기반 웹 프로젝트 개발 |
+| 마크업 언어 | Markdown(Kramdown) | 프로젝트 문서화 및 README 작성 |
+| 게임 엔진 | Unity, Godot | 게임 프로토타입 제작 및 씬 구성, 기본적인 게임 시스템 구현 |
+| 도구 | VSCode | 주요 개발 환경으로 사용하며, 확장 기능을 통한 생산성 향상 |
 
 #### 개인 프로젝트
 
