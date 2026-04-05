@@ -1,3 +1,5 @@
+![snake animation](https://raw.githubusercontent.com/kys-0602/kys-0602/output/github-contribution-grid-snake.svg)
+
 ## 목차
 
 1. [Hi, there! 👋](#hi-there- "Hi, there! 👋")
@@ -38,11 +40,3 @@
 |||팀장(시스템 및 콘텐츠 클라이언트, PM)|||
   
 </details>
-
-
-
-
-
-
-
-![snake animation](https://raw.githubusercontent.com/kys-0602/kys-0602/output/github-contribution-grid-snake.svg)
