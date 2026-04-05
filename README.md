@@ -19,6 +19,12 @@
 |게임 엔진|[Unity](https://unity.com/ "Unity"), [Godot](https://godotengine.org/ "Godot")||
 |도구|[VSCode](https://code.visualstudio.com/ "VSCode")||
 
+#### 개인 프로젝트
+
+| 프로젝트 이름 | 설명 | 테크 스택 |
+|:-----|:-----|:----|
+| [SYWWorkshop](https://syw-kr.github.io/workshop/ "SYWWorkshop") | 임진록2+ 조선의 반격의 SPR, YTL, YAV 파일을 웹에서 시각적으로 확인할 수 있는 뷰어. 기존 전용 툴 없이 브라우저에서 파일 업로드만으로 이미지 렌더링 및 데이터 분석 가능 | Vue.js, TypeScript |
+
 </details>
 
 ## SSAFY(Samsung SW·AI Academy For Youth)
