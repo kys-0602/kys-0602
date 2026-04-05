@@ -10,6 +10,15 @@
 <details>
   <summary>보기 또는 숨기기</summary>
 
+#### 테크 스택
+
+|유형|종류|설명|
+|:-----|:-----|:-----|
+|프로그래밍 언어|C/C++, C#, Java, TypeScript||
+|마크업 언어|Markdown(Kramdown)||
+|게임 엔진|[Unity](https://unity.com/ "Unity"), [Godot](https://godotengine.org/ "Godot")||
+|도구|[VSCode](https://code.visualstudio.com/ "VSCode")||
+
 </details>
 
 ## SSAFY(Samsung SW·AI Academy For Youth)
