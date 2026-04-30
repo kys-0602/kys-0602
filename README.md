@@ -41,7 +41,7 @@
 |2학기|2025.01-2025.02|2반 반장 (자치회)|
 |2학기|2025.01-2025.02|공통 프로젝트 팀장 & 베스트 멤버|
 |2학기|2025.02-2025.03|특화 프로젝트 우수상 (2등)|
-|2학기|2025.04-2025.05|자율 프로젝트 팀장 (창업 희망 트랙)|
+|2학기|2025.04-2025.05|자율 프로젝트 팀장 (창업 희망 트랙) & 베스트 멤버|
 
 #### 프로젝트
 
@@ -52,6 +52,6 @@
 |1학기 관통||YumGovy|AI 기반 다이어트 코칭 웹 서비스|팀원(프론트엔드)|Vue.JS|[jaehyunkkk](https://github.com/jaehyunkkk "jaehyunkkk")|
 |2학기 공통|RoomInCode|실시간 턴제 코딩 배틀 게임 웹 서비스|팀장(프론트엔드)|Vue.JS|[subbb-in](https://github.com/subbb-in "subbb-in"), [Wjadebead](https://github.com/Wjadebead "Wjadebead"), [hisunny1007](https://github.com/hisunny1007 "hisunny1007"), [thisischeese](https://github.com/thisischeese "thisischeese"), [zheldgkwk](https://github.com/zheldgkwk "zheldgkwk")|
 |2학기 특화|🥈 Sweet Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀원(시스템 및 콘텐츠 클라이언트)|Unity 6, [Mirror](https://assetstore.unity.com/packages/tools/network/mirror-129321 "Mirror")||
-|2학기 자율|Sweet Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀장(시스템 및 콘텐츠 클라이언트, PM)|Unity 6, STEAMWORKS||
+|2학기 자율|GummyGom Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀장(시스템 및 콘텐츠 클라이언트, PM)|Unity 6, STEAMWORKS||
   
 </details>
