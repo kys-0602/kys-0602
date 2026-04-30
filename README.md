@@ -18,6 +18,7 @@
 | 마크업 언어 | Markdown(Kramdown) | 프로젝트 문서화 및 README 작성 |
 | 게임 엔진 | Unity, Godot | 게임 프로토타입 제작 및 씬 구성, 기본적인 게임 시스템 구현 |
 | 도구 | VSCode | 주요 개발 환경으로 사용하며, 확장 기능을 통한 생산성 향상 |
+| AI Tools | GitHub Copilot | |
 
 #### 개인 프로젝트
 
