@@ -48,11 +48,11 @@
 
 > 반출 허락된 프로젝트의 경우 **프로젝트 이름**에 하이퍼링크가 포함됩니다.
 
-|구분|프로젝트 이름|설명|역할|테크 스택|팀원|
-|:-----|:-----|:-----|:-----|:-----|:-----|
+|구분|프로젝트 이름|설명|역할|테크 스택|팀원|링크|
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |1학기 관통|YumGovy|AI 기반 다이어트 코칭 웹 서비스|팀원(프론트엔드)|Vue.JS|[jaehyunkkk](https://github.com/jaehyunkkk "jaehyunkkk")|
 |2학기 공통|RoomInCode|실시간 턴제 코딩 배틀 게임 웹 서비스|팀장(프론트엔드)|Vue.JS|[subbb-in](https://github.com/subbb-in "subbb-in"), [Wjadebead](https://github.com/Wjadebead "Wjadebead"), [hisunny1007](https://github.com/hisunny1007 "hisunny1007"), [thisischeese](https://github.com/thisischeese "thisischeese"), [zheldgkwk](https://github.com/zheldgkwk "zheldgkwk")|
 |2학기 특화|🥈 Sweet Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀원(시스템 및 콘텐츠 클라이언트)|Unity 6, [Mirror](https://assetstore.unity.com/packages/tools/network/mirror-129321 "Mirror")||
-|2학기 자율|GummyGom Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀장(시스템 및 콘텐츠 클라이언트, PM)|Unity 6, [Mirror](https://assetstore.unity.com/packages/tools/network/mirror-129321 "Mirror"), STEAMWORKS||
+|2학기 자율|GummyGom Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀장(시스템 및 콘텐츠 클라이언트, PM)|Unity 6, [Mirror](https://assetstore.unity.com/packages/tools/network/mirror-129321 "Mirror"), STEAMWORKS||[링크트리](https://linktr.ee/GummyGomDelivery "링크트리")|
   
 </details>
