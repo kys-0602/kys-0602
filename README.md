@@ -7,26 +7,83 @@
 
 ## Hi, there! 👋
 
-<details>
-  <summary>보기 또는 숨기기</summary>
-
 #### 테크 스택
 
-| 유형 | 종류 | 설명 |
-|:-----|:-----|:-----|
-| 프로그래밍 언어 | **C/C++**, C#, TypeScript | 게임 리소스 분석 및 툴 개발, Unity 기반 게임 로직 구현, Vue 기반 웹 프로젝트 개발 |
-| 마크업 언어 | Markdown(Kramdown) | 프로젝트 문서화 및 README 작성 |
-| 게임 엔진 | Unity, Godot | 게임 프로토타입 제작 및 씬 구성, 기본적인 게임 시스템 구현 |
-| 도구 | VSCode | 주요 개발 환경으로 사용하며, 확장 기능을 통한 생산성 향상 |
-| AI Tools | GitHub Copilot | |
+<table>
+  <thead>
+    <tr>
+      <th>유형</th>
+      <th>종류</th>
+      <th>설명</th>
+      <th>기타</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>프로그래밍 언어</td>
+      <td>C, C++, C#, Java, Lua, Python, TypeScript</td>
+      <td>
+        <ul>
+          <li>라이브러리 또는 프레임워크의 활용 가능</li>
+          <li>게임 리소스 분석 및 인하우스 툴 개발</li>
+          <li>Unity, Godot 엔진 기반 게임 로직 구현</li>
+          <li>Vue.JS 기반 웹 서비스 구현</li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>게임 엔진</td>
+      <td>Unity 6, Godot</td>
+      <td>
+        <ul>
+          <li>게임 프로토타입 제작 및 씬 구성</li>
+          <li>기본적인 게임 시스템 구현</li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>도구</td>
+      <td>Codex, Figma, Notion, VSCode</td>
+      <td>
+        <ul>
+          <li>AI Agent, MCP</li>
+          <li>Collaboration</li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 개인 프로젝트
 
-| 프로젝트 이름 | 설명 | 테크 스택 |
-|:-----|:-----|:----|
-| [SYWWorkshop](https://syw-kr.github.io/workshop/ "SYWWorkshop") | 임진록2+ 조선의 반격의 SPR, YTL, YAV 파일을 웹에서 시각적으로 확인할 수 있는 뷰어. 기존 전용 툴 없이 브라우저에서 파일 업로드만으로 이미지 렌더링 및 데이터 분석 가능 | Vue.js, TypeScript |
-
-[📁 프로젝트 인사이트 확인하러 가기](https://github.com/kys-0602/project-insights "📁 프로젝트 인사이트")
+<table>
+  <thead>
+    <tr>
+      <th>프로젝트 이름</th>
+      <th>설명</th>
+      <th>테크 스택</th>
+      <th>기타</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://syw-kr.github.io/workshop/" title="SYWWorkshop" target="_blank">SYWWorkshop</a>
+      </td>
+      <td>임진록2+ 조선의 반격의 SPR, YTL, YAV 파일을 웹에서 시각적으로 확인할 수 있는 뷰어.<br>기존 전용 툴 없이 브라우저에서 파일 업로드만으로 이미지 렌더링 및 데이터 분석 가능</td>
+      <td>
+        <ul>
+          <li>Vue.JS</li>
+          <li>TypeScript</li>
+        </ul>
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 교육 이수
 
@@ -40,12 +97,7 @@
 | :----- | :----- | :-----: |
 | 2026 인디크래프트 | 성남시와 성남산업진흥원, 한국모바일게임협회가 인디게임 육성을 통해 건강한 게임 생태계를 조성하고자 추진하고 있는 인디게임 공모전 | 국내/커뮤니티 부문 TOP 52 선정 |
 
-</details>
-
 ## SSAFY(Samsung SW·AI Academy For Youth)
-
-<details>
-  <summary>보기 또는 숨기기</summary>
 
 #### 요약
 
@@ -194,5 +246,3 @@
 
 
 [📁 프로젝트 인사이트 확인하러 가기](https://github.com/kys-0602/project-insights "📁 프로젝트 인사이트")
-  
-</details>
