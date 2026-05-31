@@ -106,12 +106,90 @@
 
 > 반출 허락된 프로젝트의 경우 **프로젝트 이름**에 하이퍼링크가 포함됩니다.
 
-|구분|프로젝트 이름|설명|역할|테크 스택|
-|:-----|:-----|:-----|:-----|:-----|
-|1학기<br>관통|YumGovy|AI 기반 다이어트 코칭 웹 서비스|팀원<br>프론트엔드|Vue.JS|
-|2학기<br>공통|RoomInCode|실시간 턴제 코딩 배틀 게임 웹 서비스|팀장<br>프론트엔드|Vue.JS|
-|2학기<br>특화|🥈 Sweet Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀원<br>클라이언트 개발|Unity 6<br>[Mirror](https://assetstore.unity.com/packages/tools/network/mirror-129321 "Mirror")|
-|2학기<br>자율|🏆 GummyGom Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀장<br>클라이언트 개발<br>PM|Unity 6<br>Steamworks|
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>이름</th>
+      <th>설명</th>
+      <th>역할</th>
+      <th>테크 스택</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1학기<br>관통</td>
+      <td>YumGovy</td>
+      <td>AI 기반 다이어트 코칭 웹 서비스</td>
+      <td>
+        <ul>
+          <li>팀원</li>
+          <li>프론트엔드</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Vue.JS</li>
+          <li>Tailwind CSS</li>
+          <li>JavaScript(ES6)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2학기<br>공통</td>
+      <td>RoomInCode</td>
+      <td>실시간 턴제 코딩 배틀 게임 웹 서비스</td>
+      <td>
+        <ul>
+          <li>팀장</li>
+          <li>프론트엔드</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Vue.JS</li>
+          <li>Tailwind CSS</li>
+          <li>TypeScript</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2학기<br>특화</td>
+      <td>Sweet<br>Delivery</td>
+      <td rowspan="2">화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임</td>
+      <td>
+        <ul>
+          <li>팀원</li>
+          <li>클라이언트 개발</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Unity 6</li>
+          <li>Mirror</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2학기<br>자율</td>
+      <td>GummyGom<br>Delivery</td>
+      <td>
+        <ul>
+          <li>팀장</li>
+          <li>PM</li>
+          <li>클라이언트 개발</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Unity 6</li>
+          <li>Mirror</li>
+          <li>Steamworks SDK</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 [📁 프로젝트 인사이트 확인하러 가기](https://github.com/kys-0602/project-insights "📁 프로젝트 인사이트")
