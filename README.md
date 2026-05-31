@@ -67,8 +67,8 @@
 |:-----|:-----|:-----|:-----|:-----|
 |1학기<br>관통|YumGovy|AI 기반 다이어트 코칭 웹 서비스|팀원<br>프론트엔드|Vue.JS|
 |2학기<br>공통|RoomInCode|실시간 턴제 코딩 배틀 게임 웹 서비스|팀장<br>프론트엔드|Vue.JS|
-|2학기<br>특화|🥈 Sweet Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀원<br>시스템 및 콘텐츠 클라이언트|Unity 6<br>[Mirror](https://assetstore.unity.com/packages/tools/network/mirror-129321 "Mirror")|
-|2학기<br>자율|🏆 GummyGom Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀장<br>시스템 및 콘텐츠 클라이언트<br>PM|Unity 6<br>Steamworks|
+|2학기<br>특화|🥈 Sweet Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀원<br>클라이언트 개발|Unity 6<br>[Mirror](https://assetstore.unity.com/packages/tools/network/mirror-129321 "Mirror")|
+|2학기<br>자율|🏆 GummyGom Delivery|화물을 목적지까지 옮겨야 하는 4인 협동 플랫포머 게임|팀장<br>클라이언트 개발<br>PM|Unity 6<br>Steamworks|
 
 
 [📁 프로젝트 인사이트 확인하러 가기](https://github.com/kys-0602/project-insights "📁 프로젝트 인사이트")
