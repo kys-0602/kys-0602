@@ -14,43 +14,47 @@
     <tr>
       <th>유형</th>
       <th>종류</th>
-      <th>설명</th>
       <th>기타</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>프로그래밍 언어</td>
-      <td>C, C++, C#, Java, Lua, Python, TypeScript</td>
       <td>
-        <ul>
-          <li>라이브러리 또는 프레임워크의 활용 가능</li>
-          <li>게임 리소스 분석 및 인하우스 툴 개발</li>
-          <li>Unity, Godot 엔진 기반 게임 로직 구현</li>
-          <li>Vue.JS 기반 웹 서비스 구현</li>
-        </ul>
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       </td>
       <td></td>
     </tr>
     <tr>
       <td>게임 엔진</td>
-      <td>Unity 6, Godot</td>
       <td>
-        <ul>
-          <li>게임 프로토타입 제작 및 씬 구성</li>
-          <li>기본적인 게임 시스템 구현</li>
-        </ul>
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+        <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot"/>
       </td>
       <td></td>
     </tr>
     <tr>
-      <td>도구</td>
-      <td>Codex, Figma, Notion, VSCode</td>
+      <td>인프라</td>
       <td>
-        <ul>
-          <li>AI Agent, MCP</li>
-          <li>Collaboration</li>
-        </ul>
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+      </td>
+      <td></td>
+    <tr>
+      <td>도구</td>
+      <td>
+        <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
       </td>
       <td></td>
     </tr>
