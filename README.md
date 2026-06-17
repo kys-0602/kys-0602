@@ -118,6 +118,11 @@
       <td>2025.07-2026.06</td>
       <td>14기 서울캠퍼스 Web & Java Track 수료</td>
     </tr>
+    <tr>
+      <td>전체</td>
+      <td>2026.07-</td>
+      <td>15기 서울캠퍼스 실습코치</td>
+    </tr>
   </tbody>
 </table>
   
